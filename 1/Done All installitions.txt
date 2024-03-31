@@ -1,0 +1,1 @@
+Have done all the installation for typescript
